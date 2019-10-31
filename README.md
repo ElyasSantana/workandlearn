@@ -35,7 +35,7 @@
 
 <h4>Tecnologias de Interesse por Desenvolvedor</h4>
 <p>Get, Post, dos Locais a partir do index Tecnologia: <strong>http://127.0.0.1:8000/api/cliente/:id/tecnologia/</strong></p>
-<p>Get, Post, Put, Patch, Delete do Local a partir do index DEsenvolvedor e Endereço: <strong>http://127.0.0.1:8000/api/desenvolvedor/:id/tecnologia/:id </strong></p>
+<p>Get, Post, Put, Patch, Delete do Local a partir do index Desenvolvedor e Tecnologia: <strong>http://127.0.0.1:8000/api/desenvolvedor/:id/tecnologia/:id </strong></p>
 
 <hr />
 <h4>Reservas</h4>
