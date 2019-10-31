@@ -5,8 +5,10 @@
   <h3>Endpoints</h3>
   </p>
   <hr />
-<p>Os endpoints iniciam com 
-<a href="#">http://127.0.0.1:8000/api/empresa/</a>
+<p>Os endpoints iniciam com </p>
+<p>
+<a href="#">http://127.0.0.1:8000/api/empresa/</a></p>
+<p>
 <a href="#">http://127.0.0.1:8000/api/desenvolvedor/</a>
 </p>
 <hr />
