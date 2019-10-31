@@ -47,7 +47,7 @@
 
 <h3>Exemplo</h3>
 
-<h4>Solicitação de Reserva pelo</h4>
+<h4>Solicitação de Reserva pelo Desenvolvedor</h4>
 
 ```json
 {
