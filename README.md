@@ -1,9 +1,4 @@
-<div class="container">
-        <div class="navbar-header">
-          <h2>
-            Api Work and Learn
-          <h2>
-</div>
+<h1>Api Work and Learn</h1>
 
 <div>
   <p>
