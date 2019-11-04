@@ -58,7 +58,7 @@
 }
 ```
 
-<h4>Aprova da Solicitação pela Empresa</h4>
+<h4>Aprovação da Solicitação pela Empresa</h4>
 
 ```json
 {
