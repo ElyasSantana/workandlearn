@@ -1,4 +1,4 @@
-Django==2.2.6
+Django==2.2.13
 django-hashers-passlib==0.4
 django-rest-framework-nested==0.0.1
 djangorestframework==3.10.3
