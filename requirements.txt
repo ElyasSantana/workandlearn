@@ -3,7 +3,7 @@ django-hashers-passlib==0.4
 django-rest-framework-nested==0.0.1
 djangorestframework==3.10.3
 passlib==1.7.1
-Pillow==6.2.1
+Pillow==8.2.0
 pkg-resources==0.0.0
 pytz==2019.3
 sqlparse==0.3.0
